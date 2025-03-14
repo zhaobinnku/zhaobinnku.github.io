@@ -3,7 +3,7 @@
   **Shougan Teng**, GUET, Sep.2023 - <br>
   **Zhiyuan Liu**, GUET, Sep.2024 -  <br>
  - <strong>Undergraduate</strong>  <br>
-  **Chunshi Wang**, GUET, Sep.2021 -  <br>
+  **Chunshi Wang**(https://github.com/AiEson), GUET, Sep.2021 -  <br>
   **Ningjie Zhou**, GUET, Sep.2021 - <br>
   **Yifan Wang**, GUET, Sep.2021 -  <br>
   **Haidong Liang**, GUET, Sep.2021 -  <br>
