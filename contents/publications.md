@@ -14,3 +14,5 @@
 - Chen Yuhan, Wang Chunshi, and <strong>Zhao Bin*</strong>. DCA-Net: Data-Driven Collaborative Assistance Network for Semi-supervised Medical Segmentation[C].<strong>2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>.[[Paper]](https://doi.org/10.1109/BIBM62325.2024.10821880)
 
 - Wang Chunshi, <strong>Zhao Bin*</strong>, and Liu Zhiyang*. DistillMatch: Revisiting Self-Knowledge Distillation in Semi-Supervised Medical Image Segmentation[C]. <strong>2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>.[[Paper]](https://doi.org/10.1109/BIBM62325.2024.10821816)[[code]](https://github.com/AiEson/DistillMatch)
+	
+- Wang Chunshi, <strong>Zhao Bin*</strong>, and Ding Shuxue(2023). A Multi-stage Framework for 3D Individual Tooth Segmentation in Dental CBCT[M].<strong> MICCAI Challenge on Semi-supervised Tooth Segmentation. </strong>.[[Paper]](https://doi.org/10.1007/978-3-031-72396-4_4)(3/466)
