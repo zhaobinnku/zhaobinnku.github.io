@@ -1,2 +1,2 @@
+- 2025.04.12: Serving as a PC committee member at ICIC 2025.
 - 2025.04.11: One paper is accepted by Pattern Recognition Letters. Con![Chunshi Wang, Chuan Xiong]
-- Serving as a PC committee member at ICIC 2025.
