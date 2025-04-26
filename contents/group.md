@@ -4,6 +4,7 @@
   **Zhiyuan Liu**, GUET, Sep.2024 -  <br>
   **Fan Chen**, GUET, Sep.2025 -  <br>
   **Xinyue Wang**, GUET, Sep.2025 -  <br>
+  **Yanhua Han**, GUET, Sep.2025 -  <br>
  - <strong>Undergraduate</strong>  <br>
   [**Chunshi Wang**](https://github.com/AiEson), GUET, Sep.2021 -  <br>
   **Ningjie Zhou**, GUET, Sep.2021 - <br>
