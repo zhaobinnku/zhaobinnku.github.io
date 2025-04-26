@@ -1,4 +1,7 @@
 ( # equal contribution, * corresponding author)
+
+-  Wang Chunshi#, Chuan Xiong#,  <strong>Zhao Bin*</strong>, Shuxue Ding (2025). CycleMatch: Cyclic pseudo-labeling distillation in semi-supervised medical image segmentation[J]. <strong>Pattern Recognition Letters</strong>. [[Paper]](https://doi.org/10.1016/j.patrec.2025.04.014)
+
 - <strong>Zhao Bin#</strong>, Wang Chunshi#, Ding Shuxue*(2024). CrossMatch: Enhance Semi-Supervised Medical Image Segmentation with Perturbation Strategies and Knowledge Distillation[J]. <strong>IEEE Journal of Biomedical and Health Informatics</strong>.[[Paper]](https://doi.org/10.1109/JBHI.2024.3463711)[[Code]](https://github.com/AiEson/CrossMatch)
 
 - <strong>Zhao Bin#</strong>, Liu Zhiyang#, Liu Guohua, Wu Mengran, Cao Chen, Jin Song, Wu Hong* and Ding Shuxue(2022). Combine unlabeled with labeled MR images to measure acute ischemic stroke lesion by stepwise learning[J]. <strong>IET Image Processing</strong>.[[Paper]](https://doi.org/10.1049/ipr2.12606)
