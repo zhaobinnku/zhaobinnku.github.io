@@ -20,4 +20,4 @@
 	
 - Wang Chunshi, <strong>Zhao Bin*</strong>, and Ding Shuxue(2023). A Multi-stage Framework for 3D Individual Tooth Segmentation in Dental CBCT[M].<strong> MICCAI Challenge on Semi-supervised Tooth Segmentation </strong>.[[Paper]](https://doi.org/10.1007/978-3-031-72396-4_4)(3/466)
 
-- Yizhou Liang#, Chunshi Wang#, and <strong>Zhao Bin*</strong>(2025). MLCL: Remote Sensing Change Detection Using Multi-level Contrastive Learning[C].<strong> 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025)</strong>.[[Paper]](https://doi.org/10.1007/978-981-96-8170-9_27)
+-  Liang Yizhou#, Wang Chunshi#, and <strong>Zhao Bin*</strong>(2025). MLCL: Remote Sensing Change Detection Using Multi-level Contrastive Learning[C].<strong> 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025)</strong>.[[Paper]](https://doi.org/10.1007/978-981-96-8170-9_27)
