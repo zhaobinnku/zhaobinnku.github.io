@@ -1,5 +1,4 @@
 - <strong>Master Students</strong>  <br>
-  **Chuan Xiong**, GUET, Sep.2022 -  <br>
   **Shougan Teng**, GUET, Sep.2023 - <br>
   **Zhiyuan Liu**, GUET, Sep.2024 -  <br>
   **Fan Chen**, GUET, Sep.2025 -  <br>
