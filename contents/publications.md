@@ -1,5 +1,7 @@
 ( # equal contribution, * corresponding author)
-<strong>Journal Paper</strong>
+
+<strong>-JOURNAL Paper-</strong>
+
 -  Wang Chunshi#, Chuan Xiong#,  <strong>Zhao Bin*</strong>, Shuxue Ding (2025). CycleMatch: Cyclic pseudo-labeling distillation in semi-supervised medical image segmentation[J]. <strong>Pattern Recognition Letters</strong>. [[Paper]](https://doi.org/10.1016/j.patrec.2025.04.014)
 
 - <strong>Zhao Bin#</strong>, Wang Chunshi#, Ding Shuxue*(2024). CrossMatch: Enhance Semi-Supervised Medical Image Segmentation with Perturbation Strategies and Knowledge Distillation[J]. <strong>IEEE Journal of Biomedical and Health Informatics</strong>.[[Paper]](https://doi.org/10.1109/JBHI.2024.3463711)[[Code]](https://github.com/AiEson/CrossMatch)
@@ -13,7 +15,7 @@
 - Yuan Enze#, __Zhao Bin*#__, Qin Xiao, and Ding Shuxue*(2024). Multidimensional perturbed consistency learning for semi‐supervised medical image segmentation[J]. <strong>International Journal of Imaging Systems and Technology</strong>. [[Paper]](https://doi.org/10.1002/ima.23095)[[code]]( https://github.com/yuanenze123/MPC-Net)
 
 
-<strong>Conference  Paper</strong>
+<strong>-CONFERENCE  Paper-</strong>
 
 - Wang Chunshi#, Teng Shougan#, Sun Shaohua#, and <strong>Zhao Bin*</strong>. SymMatch: Symmetric Bi-Scale Matching with Self-Knowledge Distillation in Semi-Supervised Medical Image Segmentation[C].<strong>2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>.[[Paper]](https://doi.org/10.1109/BIBM62325.2024.10822040)[[code]](https://github.com/AiEson/SymMatch)
 
