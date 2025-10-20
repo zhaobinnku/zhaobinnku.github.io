@@ -1,3 +1,4 @@
+- 2025.10.20: One paper is accepted by TNNLS. Con![Chuan Xiong].
 - 2025.10.05: One paper is accepted by BIBM 2025 as a regular paper. Con![Shougan Teng].
 - 2025.08.25: Serving as an Organizing Committee Chair at ISPP 2026.
 - 2025.08.23: One paper is accepted by PRCV 2025. Con![Hongli Liu].
