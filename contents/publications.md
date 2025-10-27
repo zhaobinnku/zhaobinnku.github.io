@@ -2,6 +2,8 @@
 
 -<strong><span style="color: red;">Journal Paper</span></strong>-
 
+-  Chuan Xiong#,  <strong>Zhao Bin#*</strong>,Wang Chunshi,  Shuxue Ding* (2025). Domain Generalization with Amplitude-based Data Generation and Feature Random Suppression[J]. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. [[Paper]](https://doi.org/10.1109/TNNLS.2025.3625446)(In production)
+
 -  Wang Chunshi#, Chuan Xiong#,  <strong>Zhao Bin*</strong>, Shuxue Ding (2025). CycleMatch: Cyclic pseudo-labeling distillation in semi-supervised medical image segmentation[J]. <strong>Pattern Recognition Letters</strong>. [[Paper]](https://doi.org/10.1016/j.patrec.2025.04.014)
 
 - <strong>Zhao Bin#</strong>, Wang Chunshi#, Ding Shuxue*(2024). CrossMatch: Enhance Semi-Supervised Medical Image Segmentation with Perturbation Strategies and Knowledge Distillation[J]. <strong>IEEE Journal of Biomedical and Health Informatics</strong>.[[Paper]](https://doi.org/10.1109/JBHI.2024.3463711)[[Code]](https://github.com/AiEson/CrossMatch)
