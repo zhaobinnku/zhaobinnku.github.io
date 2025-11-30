@@ -2,7 +2,7 @@
 
 -<strong><span style="color: red;">Journal Paper</span></strong>-
 
--  Chuan Xiong#,   __Zhao Bin*#__, Wang Chunshi,  Shuxue Ding* (2025). Domain Generalization with Amplitude-based Data Generation and Feature Random Suppression[J]. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. [[Paper]](https://doi.org/10.1109/TNNLS.2025.3625446)(In production)
+-  Chuan Xiong#,   __Zhao Bin*#__, Wang Chunshi,  Shuxue Ding* (2025). Domain Generalization with Amplitude-based Data Generation and Feature Random Suppression[J]. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. [[Paper]](https://doi.org/10.1109/TNNLS.2025.3625446)[[code]](https://github.com/butterflyGN/DGSFTAFS)
 
 -  Chuan Xiong,   __Zhao Bin*__,  Shuxue Ding* (2025). DGAA: Domain Generalization with Amplitude Alignment[J]. <strong>Biomedical Signal Processing and Control</strong>. [[Paper]](https://doi.org/10.1016/j.bspc.2025.109050)[[code]](https://github.com/butterflyGN/DGAA)
 
