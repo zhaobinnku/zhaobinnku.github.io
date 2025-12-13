@@ -1,3 +1,5 @@
+- 2025.12.10: Serving as a Program Committee member at ICIC 2026.
+- 2025.11.25: Serving as a Youth Editor for EngMedicine (High-Starting-Point New Journal under the China Scientific and Technological Journals Excellence Action Plan).
 - 2025.11.01: One paper is accepted by Biomedical Signal Processing and Control. Con![Chuan Xiong].
 - 2025.10.20: One paper is accepted by IEEE T-NNLS. Con![Chuan Xiong].
 - 2025.10.05: One paper is accepted by IEEE BIBM 2025 as a regular paper. Con![Shougan Teng].
