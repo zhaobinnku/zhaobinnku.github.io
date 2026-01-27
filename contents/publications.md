@@ -39,3 +39,5 @@
 -  Pan Xuhao, Wang Chunshi, <strong>Zhao Bin*</strong> and Wang Huaji. Improve Self-supervision Learning by Enhancing Invariant Information[C]. <strong>2025 International Conference on Intelligent Computing (ICIC 2025)</strong>. [[Paper]](https://doi.org/10.1007/978-981-95-0006-2_4)[[code]](https://github.com/2L84/EIBT-main)
 
 -  Wu Xiang and <strong>Zhao Bin*</strong>. FreqTime-HAR: Self-supervised Multimodal Fusion via Transformer for Robust Human Activity Recognition[C]. <strong>2025 International Conference on Intelligent Computing (ICIC 2025)</strong>. [[Paper]](https://doi.org/10.1007/978-981-96-9891-2_38)[[code]](https://github.com/bx12138/SSMF)
+
+-  Hongli Liu and <strong>Zhao Bin*</strong>. Dynamic Dual-Stream Feature Fusion for Semi-supervised Medical Image Segmentation[C]. <strong>2025 Pattern Recognition and Computer Vision (PRCV 2025)</strong>. [[Paper]](https://doi.org/10.1007/978-981-95-5693-9_25)[[code]](https://github.com/chuanyaya/CompNet)
