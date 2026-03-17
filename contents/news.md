@@ -1,3 +1,4 @@
+- 2026.03.17: Two papers are accepted by IEEE ICME 2026. Con![Zhiyuan Liu, Nengbo Lu].
 - 2025.12.10: Serving as a Program Committee member at ICIC 2026.
 - 2025.11.25: Serving as a Youth Editor for EngMedicine (High-Starting-Point New Journal under the China Scientific and Technological Journals Excellence Action Plan).
 - 2025.11.01: One paper is accepted by Biomedical Signal Processing and Control. Con![Chuan Xiong].
