@@ -14,3 +14,5 @@
   **Youliang Tao**(with Dr. [**Rongzhen Zhao**](https://genera1z.github.io/)), GUET, Sep.2023 -  <br>
   **Shunlong Li**, GUET, Sep.2024 -  <br>
   **Huimin Wang**, GUET, Sep.2024 -  <br>
+  **Yuandong Liang**, GUET, Sep.2025 -  <br>
+  **Xingyi Li**, GUET, Sep.2025 -  <br>
