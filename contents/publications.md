@@ -4,6 +4,8 @@
 
 -  Xiong Chuan#,   __Zhao Bin*#__, Wang Chunshi,  Ding Shuxue* (2025). Domain Generalization with Amplitude-based Data Generation and Feature Random Suppression[J]. <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. [[Paper]](https://doi.org/10.1109/TNNLS.2025.3625446)[[code]](https://github.com/butterflyGN/DGSFTAFS)
 
+- Liang Yizhou and <strong>Zhao Bin*</strong>. PFD-net: Physics-guided degradation and frequency-aware restoration for label-efficient semi-supervised remote sensing change detection[J].<strong>Neurocomputing</strong>.[[Paper]](https://doi.org/10.1007/978-981-96-8170-9_27)[[code]](https://github.com/lvvsh/PFD-Net)
+
 -  Xiong Chuan,   __Zhao Bin*__,  Ding Shuxue* (2025). DGAA: Domain Generalization with Amplitude Alignment[J]. <strong>Biomedical Signal Processing and Control</strong>. [[Paper]](https://doi.org/10.1016/j.bspc.2025.109050)[[code]](https://github.com/butterflyGN/DGAA)
 
 -  Wang Chunshi#, Xiong Chuan#,  <strong>Zhao Bin*</strong>,  Ding Shuxue(2025). CycleMatch: Cyclic pseudo-labeling distillation in semi-supervised medical image segmentation[J]. <strong>Pattern Recognition Letters</strong>. [[Paper]](https://doi.org/10.1016/j.patrec.2025.04.014)
